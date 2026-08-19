@@ -1,67 +1,150 @@
-# 👋 Hi, I'm George Saju  
-### Data Scientist | Python Developer | Chemistry Postgraduate  
+# 👋 Hi, I'm George Saju
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Saju-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/george-saju-a9a0a71b7/)
+### Senior Support Engineer @ Happiest Minds Technologies | Data Scientist | Python Developer | Chemistry Postgraduate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Saju-blue?logo=linkedin\&style=flat)](https://www.linkedin.com/in/george-saju-a9a0a71b7/)
 
 ---
 
-## 🧭 About Me  
-I’m a **Certified Data Scientist** and **Python Developer** with a strong academic foundation in **Chemistry (M.Sc.)** and hands-on experience in **data analysis, API development, and scientific data automation**.  
-I thrive at the intersection of **science and technology**, developing solutions that transform raw data into actionable insights.
+## 🧭 About Me
 
-**Key Highlights:**  
-- 🧠 3+ years of professional experience in data science and software development  
-- 🧪 Skilled in integrating analytical instruments (GCMS, NMR, balances) and parsing proprietary file formats  
-- ⚙️ Built APIs using **FastAPI** for real-time instrument data retrieval  
-- 📈 Experienced in **machine learning**, **data visualization**, and **data engineering** workflows  
-- 🌍 Exploring opportunities in **AI**, **MLOps**
+I'm a **Senior Support Engineer at Happiest Minds Technologies**, with a strong background in **Data Science, Python development, scientific data processing, and AI-driven automation**.
+
+I hold an **M.Sc. in Chemistry** and have built my career at the intersection of **scientific research, software engineering, data, and artificial intelligence**.
+
+My professional experience includes developing Python-based solutions for scientific data, building APIs, parsing analytical instrument data, working with databases, and creating automation workflows.
+
+I'm currently expanding my expertise in **Generative AI, LLMs, RAG, MCP, Machine Learning, MLOps, and AI automation**.
+
+### 💡 What I Work With
+
+* 🐍 Python development and automation
+* 📊 Data analysis and data engineering
+* 🧠 Machine Learning and Generative AI
+* 🤖 LLM applications and AI automation
+* 🔌 API development using FastAPI
+* 🧪 Scientific and analytical instrument data
+* 🗄️ SQL and NoSQL databases
+* ☁️ Cloud and technical support
+* 📈 Data visualization and dashboards
 
 ---
 
 ## 🧰 Technical Skills
 
-| Category | Technologies |
-|-----------|--------------|
-| **Programming** | Python, SQL, Mongo DB |
-| **Frameworks / APIs** | FastAPI, Flask |
-| **Data Analysis** | Pandas, NumPy, Polars, Scikit-learn |
-| **Visualization** | Matplotlib, Seaborn, Power BI |
-| **Databases** | MySQL, PostgreSQL, SQLite |
-| **Dev Tools** | Git, VS Code, Jupyter, Colab |
-| **Other Interests** | Machine Learning, Instrument Data Parsing |
+| Category              | Technologies                                      |
+| --------------------- | ------------------------------------------------- |
+| **Programming**       | Python, SQL                                       |
+| **Data Science**      | Pandas, Polars, NumPy, Scikit-learn               |
+| **Machine Learning**  | Regression, Classification, Predictive Modeling   |
+| **Generative AI**     | LLMs, Prompt Engineering, RAG, MCP, AI Automation |
+| **Frameworks / APIs** | FastAPI, Flask                                    |
+| **Databases**         | MySQL, PostgreSQL, SQLite, MongoDB                |
+| **Big Data**          | Apache Spark, PySpark                             |
+| **Visualization**     | Matplotlib, Seaborn, Power BI                     |
+| **Scientific Data**   | NMR, HPLC, GC-MS, Analytical Instrument Data      |
+| **Developer Tools**   | Git, GitHub, VS Code, Jupyter, Google Colab       |
+| **Cloud / Technical** | AWS, Linux, Networking Fundamentals               |
+
+---
+
+## 💼 Professional Experience
+
+### Senior Support Engineer — Happiest Minds Technologies
+
+**June 2026 – Present**
+
+Currently working as a **Senior Support Engineer**, working with enterprise scientific software and technical environments.
+
+My role involves troubleshooting technical issues, supporting application environments, analyzing problems, collaborating with technical teams, and continuously improving my understanding of cloud infrastructure, networking, and enterprise software systems.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|--------------|
-| **Instrument Parser & API System** | Designed a universal parser framework in Python to extract data from scientific instruments and expose results via FastAPI endpoints. |
-| **Predictive Modeling on Experimental Data** | Developed regression models to predict chemical property outcomes using Python’s ML libraries. |
-| **Real-time Weight Integration via DG1SP & Telnet** | Built a FastAPI app to stream weight data from connected instruments dynamically. |
-| **Data Visualization Dashboard** | Created dashboards for data-driven decisions using Power BI. |
+### 🤖 Morning Brew → LinkedIn AI Content Automation
 
-> 🔗 Explore my repositories for more technical implementations.
+An AI-powered automation workflow that extracts newsletter content, processes it using Python, generates LinkedIn content using Generative AI, and prepares it for human review.
+
+**Technologies:** Python, Gmail, Google Gemini, Generative AI, Automation
 
 ---
 
-## 🎯 Current Focus
-- Deepening knowledge in **Machine Learning and MLOps**  
-- Enhancing skills in **Big Data & Polars DataFrame optimization**  
-- Exploring **AI-driven automation in analytical chemistry**
+### 🧪 Scientific Instrument Parser & API System
+
+Designed a Python-based parser framework for extracting and processing data from scientific instruments and exposing processed information through APIs.
+
+**Technologies:** Python, FastAPI, Data Parsing, REST APIs, Scientific Data
+
+---
+
+### ⚖️ Real-Time Weight Integration
+
+Built a FastAPI-based application to retrieve and stream real-time weight measurements from connected analytical balances using communication protocols such as DG1SP and Telnet.
+
+**Technologies:** Python, FastAPI, Telnet, APIs, Instrument Integration
+
+---
+
+### 🧠 Predictive Modeling on Experimental Data
+
+Developed machine learning models to analyze experimental datasets and predict chemical-property outcomes using Python-based machine learning libraries.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
+
+---
+
+### 📊 Data Visualization Dashboard
+
+Developed interactive dashboards to transform raw datasets into meaningful visual insights for data-driven decision making.
+
+**Technologies:** Power BI, Python, Pandas, Data Visualization
+
+---
+
+## 🎯 Current Learning & Focus
+
+I'm currently focusing on building a stronger foundation across **AI, software engineering, and infrastructure**.
+
+* 🤖 Generative AI & LLM applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🔌 Model Context Protocol (MCP)
+* ⚙️ AI-powered automation
+* 🧠 Machine Learning & Deep Learning
+* ☁️ Cloud technologies and AWS
+* 🔧 MLOps
+* 🌐 Networking and infrastructure
+* 📊 Big Data & PySpark
+* 🐍 Advanced Python development
+
+---
+
+## 📚 Certifications & Education
+
+🎓 **M.Sc. Chemistry — Mahatma Gandhi University**
+
+🎓 **B.Sc. Chemistry — Mahatma Gandhi University**
+
+🏆 **Certified Data Scientist & Machine Learning**
+
+📜 **Prompt Engineering for ChatGPT — Vanderbilt University**
+
+📜 **Generative AI for Everyone**
+
+📜 **Anthropic Claude AI Certification — In Progress**
 
 ---
 
 ## 📫 Let's Connect
-📧 **Email:** georgesaju90@gmail.com 
-💼 **LinkedIn:** [linkedin.com/in/george-saju-a9a0a71b7](https://www.linkedin.com/in/george-saju-a9a0a71b7)  
+
+📧 **Email:** [georgesaju90@gmail.com](mailto:georgesaju90@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/george-saju-a9a0a71b7](https://www.linkedin.com/in/george-saju-a9a0a71b7/)
 
 ---
 
-⭐ **“Turning scientific data into intelligent decisions — through the power of Python and Data Science.”**
+## ⚡ My Career Philosophy
 
----
+> **“Don't just learn technology. Build systems that solve real problems.”**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+⭐ Turning **scientific data, software engineering, and artificial intelligence** into practical solutions.
