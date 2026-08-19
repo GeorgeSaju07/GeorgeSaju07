@@ -10,7 +10,7 @@ I’m a **Certified Data Scientist** and **Python Developer** with a strong acad
 I thrive at the intersection of **science and technology**, developing solutions that transform raw data into actionable insights.
 
 **Key Highlights:**  
-- 🧠 2+ years of professional experience in data science and software development  
+- 🧠 3+ years of professional experience in data science and software development  
 - 🧪 Skilled in integrating analytical instruments (GCMS, NMR, balances) and parsing proprietary file formats  
 - ⚙️ Built APIs using **FastAPI** for real-time instrument data retrieval  
 - 📈 Experienced in **machine learning**, **data visualization**, and **data engineering** workflows  
@@ -53,7 +53,7 @@ I thrive at the intersection of **science and technology**, developing solutions
 ---
 
 ## 📫 Let's Connect
-📧 **Email:** george.your_email@example.com  
+📧 **Email:** georgesaju90@gmail.com 
 💼 **LinkedIn:** [linkedin.com/in/george-saju-a9a0a71b7](https://www.linkedin.com/in/george-saju-a9a0a71b7)  
 
 ---
